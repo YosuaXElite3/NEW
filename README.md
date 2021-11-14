@@ -1,4 +1,4 @@
-# New1.py
+# NEW.py
 #### Contact If Error/ Hubungi Jika Error
 >
 Nama Athour : [**Yosua wauran**]
@@ -35,9 +35,9 @@ pkg install python2
 pkg install bash
 pkg install git
 pip install bs4
-git clone https://github.com/YosuaXElite3/New
-cd New
+git clone https://github.com/YosuaXElite3/NEW
+cd NEW
 git pull
-python New.py
+python NEW.py
 ```
 
